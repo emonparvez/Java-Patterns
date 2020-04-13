@@ -9,7 +9,7 @@ public class LeftTriangle {
         for(int i=1;i<=4;i++)
         {
             
-           for(int k=3;k>=i;k--)
+           for(int k=3;k>=i-1;k--)
            {
                 System.out.printf(" ");
             }
